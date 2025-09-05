@@ -1,0 +1,26 @@
+
+# Site settings
+title: "Homepage of poml88"
+subtitle: "GitHub pages."
+description: "This is the homepage of the profile GitHub poml88."
+url: "https://poml88.github.io"
+baseurl: "/"
+
+lang: "en"
+
+
+
+# SEO plugin (allowed on GitHub Pages)
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude (optional)
+exclude:
+  - README.md
+  - node_modules
+  - vendor
+
+
+webmaster_verifications:
+  google: QrAWHZJw-2VOfvtk-iumpq3WzKrOqB064iC5zJ6HGFE

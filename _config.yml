@@ -13,7 +13,7 @@ lang: "en"
 # SEO plugin (allowed on GitHub Pages)
 plugins:
   - jekyll-seo-tag
-  - jekyll-sitemap
+
 
 # Exclude (optional)
 exclude:

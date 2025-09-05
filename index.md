@@ -1,4 +1,4 @@
-## Welcome!
+## Welcome! 👋
 
 ### My main projects are:
 

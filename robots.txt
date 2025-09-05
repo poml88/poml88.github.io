@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Disallow: /ecg-recorder-ios/de/datenschutzerklaerung.html
+Disallow: /ecg-recorder-ios/de/impressum.html
+Disallow: /ecg-recorder-ios/DISCLAIMER.html
+Disallow: /ecg-recorder-ios/PRIVACY_POLICY.html
+Disallow: /ecg-recorder-ios/TERMS_of_SERVICE.html
+Disallow: /ecg-recorder-ios/README.html
+Disallow: /ecg-recorder-ios/demo-video/README.html
+
+Disallow: /FLwatch/impressum/
+Disallow: /FLwatch/privacy/
+
+Sitemap: https://poml88.github.io/sitemap.xml

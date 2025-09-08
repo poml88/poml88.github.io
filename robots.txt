@@ -10,5 +10,6 @@ Disallow: /ecg-recorder-ios/demo-video/README.html
 
 Disallow: /FLwatch/impressum/
 Disallow: /FLwatch/privacy/
+Disallow: /FLwatch/terms/
 
 Sitemap: https://poml88.github.io/sitemap.xml

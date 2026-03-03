@@ -2,7 +2,7 @@
 
 ### My main projects are:
 
-- <img src="/FLwatch/assets/img/flwatch-icon.png" alt="FLwatch app icon" height="40">   [FLwatch: Glucose Sensor Graph (iOS and watchOS app)](/FLwatch/)
+- <img src="/FLwatch/assets/img/flwatch-icon.png" alt="FLwatch app icon" height="40">   [FLwatch: Glucose Sensor Graph (iOS and watchOS app)](https://flwatch.app)
   
   Open-source iOS and watchOS app that displays LibreLinkUp glucose readings, graphs, widgets, and insulin-on-board calculations.
   
